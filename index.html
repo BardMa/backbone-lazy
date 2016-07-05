@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta id="viewport" name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="资溪面包">
+    <meta name="format-detection" content="telephone=no">
+    <link href="src/css/style.css" rel="stylesheet">
+    <title>资溪面包门店</title>
+</head>
+
+<body>
+    <script src="build/require.js"></script>
+    <script src="build/common.js"></script>
+    <script>
+        requirejs.config({
+            baseUrl: '/',
+            paths: {
+                'home/app': 'build/home',
+                'shop/app': 'build/shop',
+            }
+        });
+        require(['router']);
+    </script>
+</body>
+
+</html>

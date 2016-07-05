@@ -1,0 +1,140 @@
+
+{
+  "data":[
+  {
+    "name": "越城区",
+    "bg_color":"#F5A6BB",
+    "icon":"if if-bread",
+    "shop": [
+      {"name": "城北店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=4098173&flag=wx"},
+      {"name": "皋埠店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018299&flag=wx"},
+      {"name": "城西店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=13768717&flag=wx"},
+      {"name": "城南店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=9740560&flag=wx"},
+      {"name": "城东店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=9723000&flag=wx"},
+      {"name": "城中店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=32301821&flag=wx"},
+      {"name": "育贤店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018304&flag=wx"},
+      {"name": "东街店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=9734926&flag=wx"},
+      {"name": "中兴店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=13768716&flag=wx"},
+      {"name": "昌安店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=9742429&flag=wx"},
+      {"name": "世茂店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=16899423&flag=wx"},
+      {"name": "文理店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018292&flag=wx"},
+      {"name": "迪荡店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=23674485&flag=wx"},
+      {"name": "工厂店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=17845960&flag=wx"},
+      {"name": "东浦店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=13768707&flag=wx"},
+      {"name": "醪河店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=13768708&flag=wx"},
+      {"name": "世纪店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=17845962&flag=wx"},
+      {"name": "孙端店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018323&flag=wx"},
+      {"name": "马山店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18263645&flag=wx"},
+      {"name": "延安店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=15623224&flag=wx"},
+      {"name": "鹤池店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=10575940&flag=wx"},
+      {"name": "南池店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=23111832&flag=wx"},
+      {"name": "二泾店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=21658865&flag=wx"}
+    ]
+  },
+  {
+    "name": "柯桥区",
+    "bg_color":"#7AAADB",
+    "icon":"if if-bread1",
+    "shop": [
+      {"name": "杨汛桥", "link":"http://mm.dianping.com/hui/mm/shop?shopId=15905923&flag=wx"},
+      {"name": "齐贤店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=11560801&flag=wx"},
+      {"name": "鉴湖店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=13768706&flag=wx"},
+      {"name": "明珠店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018329&flag=wx"},
+      {"name": "万达店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018336&flag=wx"},
+      {"name": "笛杨店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=9731233&flag=wx"},
+      {"name": "钱清店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=13768705&flag=wx"},
+      {"name": "柯岩店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018347&flag=wx"},
+      {"name": "平水店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=21658874&flag=wx"},
+      {"name": "马鞍店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018308&flag=wx"},
+      {"name": "兰亭店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=24979445&flag=wx"},
+      {"name": "福全店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=20731520&flag=wx"},
+      {"name": "联华店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=23111838&flag=wx"},
+      {"name": "江桥店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=16900035&flag=wx"},
+      {"name": "漓渚店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018360&flag=wx"},
+      {"name": "夏履店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=19204842&flag=wx"}
+    ]
+  },
+  {
+    "name": "上虞区",
+    "bg_color":"#936035",
+    "icon":"if if-bread2",
+    "shop": [
+      {"name": "沥海店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018317&flag=wx"},
+      {"name": "小越店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018371&flag=wx"},
+      {"name": "百官店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=13768713&flag=wx"},
+      {"name": "江杨店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=9720360&flag=wx"},
+      {"name": "凤山店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=13768712&flag=wx"},
+      {"name": "舜杰店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=10575885&flag=wx"},
+      {"name": "道墟店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018379&flag=wx"},
+      {"name": "东关店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=17845964&flag=wx"},
+      {"name": "凤鸣店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=17845968&flag=wx"},
+      {"name": "丰惠店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=17845966&flag=wx"},
+      {"name": "人民店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018376&flag=wx"}
+    ]
+  },
+  {
+    "name": "诸暨市",
+    "bg_color":"#FED27B",
+    "icon":"if if-bread3",
+    "shop": [
+      {"name": "南门店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=16899599&flag=wx"},
+      {"name": "三角店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=13768710&flag=wx"},
+      {"name": "大桥店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=9730157&flag=wx"},
+      {"name": "江东店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=9728974&flag=wx"},
+      {"name": "浣江店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=9746126&flag=wx"},
+      {"name": "枫桥店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=10576641&flag=wx"},
+      {"name": "大唐店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=10576916&flag=wx"},
+      {"name": "万安店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=17604680&flag=wx"},
+      {"name": "文昌店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=17604682&flag=wx"},
+      {"name": "三都店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018354&flag=wx"},
+      {"name": "大润发", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18147733&flag=wx"},
+      {"name": "草塔店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18147757&flag=wx"},
+      {"name": "福田店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=24979465&flag=wx"},
+      {"name": "山下湖", "link":"http://mm.dianping.com/hui/mm/shop?shopId=27193474&flag=wx"}
+    ]
+  },
+  {
+    "name": "新昌县",
+    "bg_color":"#987EAE",
+    "icon":"if if-bread4",
+    "shop": [
+      {"name": "现代店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=17604679&flag=wx"},
+      {"name": "七星店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018382&flag=wx"},
+      {"name": "东门店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=9720790&flag=wx"},
+      {"name": "鼓山店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=9723769&flag=wx"},
+      {"name": "横街店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=9730578&flag=wx"},
+      {"name": "礼泉店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018386&flag=wx"}
+    ]
+  },
+  {
+    "name": "嵊州市",
+    "bg_color":"#66C0B6",
+    "icon":"if if-bread5",
+    "shop": [
+      {"name": "西桥店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=13768711&flag=wx"}
+    ]
+  },
+  {
+    "name": "宁波余姚",
+    "bg_color":"#D2A8D1",
+    "icon":"if if-bread6",
+    "shop": [
+      {"name": "万达店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=18018336&flag=wx"},
+      {"name": "东旱店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=21735977&flag=wx"},
+      {"name": "富巷店", "link":"http://mm.dianping.com/hui/mm/shop?shopId=23111847&flag=wx"}
+    ]
+  },
+  {
+    "name": "其他",
+    "bg_color":"#CCBBA1",
+    "icon":"if if-bread7",
+    "shop": [
+      {"name": "目澜店", "link":"###"},
+      {"name": "轻纺店", "link":"###"},
+      {"name": "桥北店", "link":"###"},
+      {"name": "黎里店", "link":"###"},
+      {"name": "梅堰店", "link":"###"}
+    ]
+  }
+]
+}
