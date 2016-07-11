@@ -1,6 +1,6 @@
 requirejs.config({
     //urlArgs: 'rand=' + (new Date()).getTime(), // for development
-    baseUrl: 'src/js',
+    baseUrl: 'js',
     paths: {
         text: 'libs/text',
         underscore: 'libs/underscore',
